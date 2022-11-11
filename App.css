@@ -1,0 +1,14 @@
+/* Add styling for your page here */
+
+.App {
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.BakeryItem > img {
+    width: 200px;
+    height: 200px;
+    margin: auto;
+}
